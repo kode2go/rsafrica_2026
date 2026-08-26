@@ -15,6 +15,11 @@ st.markdown(
 Thank you for attending the talk.
 
 This page brings together the key links mentioned during the session.
+
+### Contact
+
+📧 **Email:** [bbarsch@csir.co.za](mailto:bbarsch@csir.co.za)  
+🔗 **LinkedIn:** [Binjamin Barsch](https://www.linkedin.com/in/binjamin-barsch-43036216a/)
 """
 )
 

@@ -29,7 +29,7 @@ Download or view the slides from the IndabaX talk:
 
 st.link_button(
     "📄 Download Talk Slides (PDF)",
-    "https://raw.githubusercontent.com/kode2go/rsafrica_2026/main/Developing AI Guidelines for Infrastructure-as-a-Service Platforms_v2.pdf"
+    "https://raw.githubusercontent.com/kode2go/rsafrica_2026/main/Developing AI Guidelines for Infrastructure-as-a-Service Platforms_v3.pdf"
     
 )
 

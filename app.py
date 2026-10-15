@@ -28,7 +28,7 @@ st.divider()
 st.header("Talk Slides")
 st.markdown(
     """
-Download or view the slides from the IndabaX talk:
+Download or view the slides:
 """
 )
 
